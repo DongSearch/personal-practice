@@ -1,1 +1,2 @@
-
+simple example to map from normal distribution(Gaussian) to checkerboard pattern using flow_macthing
+and then, at the last stage, it generates sample and compare to real image
